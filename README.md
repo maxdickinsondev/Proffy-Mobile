@@ -8,5 +8,7 @@
 - React Native
 - React Navigaton
 - TypeScript
-- Google Fonts
+- Expo
+- Expo-Google-Fonts
+- Expo-Status-Bar
 - Axios
