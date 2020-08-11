@@ -12,3 +12,5 @@
 - Expo-Google-Fonts
 - Expo-Status-Bar
 - Axios
+
+Assistir ao vídeo no YouTube: https://youtu.be/x3qGek91WGM
